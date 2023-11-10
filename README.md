@@ -15,6 +15,7 @@ You can create and generate QR code images and also read or scan it.
 * HTML
 * CSS
 * JavaScript
+* API
 
 ## Web Demo
 
