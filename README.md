@@ -20,7 +20,7 @@ You can create and generate QR code images and also read or scan it.
 
 https://subhashkumar8574.github.io/QR_Generate/
 
-## References Websites
+## API References
 
 https://goqr.me/api/
 
